@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve Wrapper: Offline.
+about: Create a report to help us improve FreeAnimate.
 title: ''
 labels: ''
 assignees: ''
@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. windows, macOS, linux]
+ - OS: [e.g. windows]
  - Version [e.g. beta, stable]
 
 
