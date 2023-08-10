@@ -4,7 +4,7 @@ FreeAnimate is an easy-to-use GoAnimate Server Emulator that uses Electron. Unli
 
 
 ## Updates & Support
-For support, the first thing you should do is read through the FAQ, it most likely has what you want to know. Alternatively, if you can't find what you need, you can join the [Discord server](https://discord.gg/8ygu2hTs). Joining the server is recommended, as there is a whole community to help you out.
+For support, the first thing you should do is read through the FAQ, it most likely has what you want to know. Alternatively, if you can't find what you need, you can join the [Discord server](https://discord.gg/bcwDBxmJ). Joining the server is recommended, as there is a whole community to help you out.
 
 ## Dependencies
 This program relies on Flash and FFmpeg to work properly. Luckily, they require no download, as they have already been included in FreeAnimate.
