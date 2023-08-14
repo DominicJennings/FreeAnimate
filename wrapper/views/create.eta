@@ -212,7 +212,7 @@ installPlugin(RUFFLE_EXTENSION);
 	<body>
 		<header>
 	<a href="/">
-		<h1 style="margin:0"><img id="logo" src="/pages/img/logo.svg" alt="FreeAnimate"></h1>
+		<h1 style="margin:0"><img id="logo" src="/pages/img/logo.png" alt="FreeAnimate"></h1>
 	</a>
 	<nav id="headbuttons">
 		<div class="dropdown_contain btn">
