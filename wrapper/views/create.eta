@@ -2,7 +2,7 @@
 		<meta charset="UTF-8">
 		<link rel="icon" href="/favicon.ico" type="image/png">
 		<title>Create - Wrapper: Offline</title>
-		<meta name="description" content="Wrapper: Offline's create page">
+		<meta name="description" content="FreeAnimate's create page">
 		<link rel="stylesheet" type="text/css" href="/pages/css/global.css">
 		<link rel="stylesheet" type="text/css" href="/pages/css/create.css">
 		<script src="/pages/js/jquery.js"></script><script>/******/ (() => { // webpackBootstrap
@@ -212,7 +212,7 @@ installPlugin(RUFFLE_EXTENSION);
 	<body>
 		<header>
 	<a href="/">
-		<h1 style="margin:0"><img id="logo" src="/pages/img/logo.svg" alt="FreeAnimate"></h1>
+		<h1 style="margin:0"><img id="logo" src="/pages/img/logo.png" alt="FreeAnimate"></h1>
 	</a>
 	<nav id="headbuttons">
 		<div class="dropdown_contain btn">
