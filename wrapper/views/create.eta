@@ -1,7 +1,7 @@
 <html><script type="text/javascript" src="chrome-extension://mdnleldcmiljblolnjhpnblkcekpdkpa/libs/customElements.js" class="__REQUESTLY__SCRIPT"></script><head>
 		<meta charset="UTF-8">
 		<link rel="icon" href="/favicon.ico" type="image/png">
-		<title>Create - Wrapper: Offline</title>
+		<title>Create - FreeAnimate</title>
 		<meta name="description" content="FreeAnimate's create page">
 		<link rel="stylesheet" type="text/css" href="/pages/css/global.css">
 		<link rel="stylesheet" type="text/css" href="/pages/css/create.css">
@@ -384,6 +384,12 @@ installPlugin(RUFFLE_EXTENSION);
 					<a href="#" onclick="redirect('toonadv', 'cctoonadventure')">
 						<img src="/pages/img/themes/toonadv.png" alt="Toon Adventure™">
 						Toon Adventure™
+					</a>
+				</div>
+				<div class="theme">
+					<a href="#" onclick="redirect('sticklybiz')">
+						<img src="/pages/img/themes/sticklybiz.jpg" alt="Stickly Business™">
+						Stickly Business™
 					</a>
 				</div>
 				<div class="theme">
